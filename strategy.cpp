@@ -1,5 +1,6 @@
 /**
 Ref: https://medium.com/@lokeshbihani99/strategy-pattern-in-c-00c76cbee275
+https://geeksforgeeks.org/strategy-pattern-set-1/?ref=lbp
 */
 #include <iostream>
 #include <vector>
